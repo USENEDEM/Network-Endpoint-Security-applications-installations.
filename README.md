@@ -32,7 +32,7 @@ ___
 
 <img width="1280" alt="Screenshot 2024-05-24 at 15 36 58" src="https://github.com/USENEDEM/Network-Endpoint-Security-applications-installations./assets/169564406/17fa1b58-a18f-452f-a072-f15ce576db87">
 
-*Ref. 1* (Creat account)
+*Ref. 1* (Create account)
 
 
 <img width="1280" alt="Screenshot 2024-05-24 at 15 35 49" src="https://github.com/USENEDEM/Network-Endpoint-Security-applications-installations./assets/169564406/4e09327b-9ee4-4afa-b367-a772ff31574f">
