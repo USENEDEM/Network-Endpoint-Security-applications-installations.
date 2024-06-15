@@ -27,7 +27,7 @@ ___
 ---
 ### Pfsense
 
-1.Downloaded the pfsense community edition by creating an account on the pfsense netgate website.Selected the *AMD 64 iso* file for virtual machines as it is going to be installed on my virtual box.
+1.Downloaded the pfsense community edition by creating an account on the pfsense netgate website.I selected the *AMD 64 iso* file for virtual machines as it is going to be installed on my virtual box.
 
 
 <img width="1280" alt="Screenshot 2024-05-24 at 15 36 58" src="https://github.com/USENEDEM/Network-Endpoint-Security-applications-installations./assets/169564406/17fa1b58-a18f-452f-a072-f15ce576db87">
