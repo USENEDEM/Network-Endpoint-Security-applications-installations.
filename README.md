@@ -3,7 +3,7 @@
 ### Preview
 ---
 
-This project gives more insight and practical analysis on installation and configuration of network security applications.
+This project gives more insight and practical analysis on installation and configuration of network and endpoint security applications.
 
 ### Skills ( Learned )
 ---
